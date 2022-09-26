@@ -1,0 +1,34 @@
+{
+    "players": [
+        {
+            "id": "483298493284",
+            "name": "Fake User#9999",
+            "inventory": [
+                {"type":"item", "id": 837264874, "name": "Gun"},
+                {"type":"item", "id": 732868374, "name": "Sword"},
+                {"type":"item", "id": 891919998, "name": "Pizza"},
+                {"type":"item", "id": 834873738, "name": "Pickaxe"},
+                {"type":"item", "id": 187483748, "name": "Skateboard"},
+                {"type":"item", "id": 219383747, "name": "Knife"},
+                {"type":"item", "id": 287676289, "name": "Fork"}
+            ],
+            "stats": {
+                "skills": {
+                    "woodcutting": 99,
+                    "attack": 2,
+                    "defense": 69
+                },
+                "vitals": {
+                    "health": 100,
+                    "stamina": 23
+                }
+            },
+            "abilities": [
+                "time travel",
+                "insta kill",
+                "god mode",
+                "spawn rabbit"
+            ]
+        }
+    ]
+}
